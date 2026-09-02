@@ -8,6 +8,8 @@
 
 [`index.html`](index.html)을 Chrome 또는 Edge로 열면 별도 설치 없이 동작한다.
 
+발표 준비에는 [`PRESENTATION_RESEARCH_SUMMARY.md`](PRESENTATION_RESEARCH_SUMMARY.md)를 사용한다. 표준의 역할, 군 특화 근거, 최종 산출물, 6단계 발표 대본과 예상 질문을 쉬운 말로 정리했다.
+
 조작 방법:
 
 - 화면 하단 단계 또는 `다음 조명` 클릭
